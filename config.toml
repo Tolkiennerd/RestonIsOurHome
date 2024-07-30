@@ -1,0 +1,5 @@
+baseURL = 'https://restonisourhome.org/'
+languageCode = 'en-us'
+title = 'Reston Is Our Home'
+theme = 'ananke'
+
