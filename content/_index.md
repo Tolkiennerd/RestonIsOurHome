@@ -6,7 +6,7 @@ description: Reston's unhoused community is being offered a new shelter for nigh
 
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/tent.jpg'
+  featured_image: '/images/tent-cropped.png'
 ---
 
 # Overnight Shelter is Open
