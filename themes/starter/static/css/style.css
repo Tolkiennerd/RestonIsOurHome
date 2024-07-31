@@ -51,21 +51,23 @@ a {
   width: 100vw;
   margin-top: -.5rem;
   margin-left: -.5rem;
+  margin-right: 3rem;
 }
 
 .site-nav a {
   display: block;
   padding: 1rem;
   text-decoration: none;
-  color: white;
+  color: var(--text-color);
 }
 
 .site-nav a:hover {
-  color: #ccc;
+  color: var(--hover-text-color);
 }
 
 .site-nav .logo {
   font-weight: bold;
+  margin-left: 3rem;
 }
 
 .site-header .banner-text {
@@ -87,7 +89,7 @@ a {
 .main-menu {
   display: flex;
   list-style: none;
-  margin: 0;
+  margin: 0 3rem;
   padding: 0;
 }
 

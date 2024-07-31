@@ -1,7 +1,7 @@
 ---
 title: "New Temporary Overnight Shelter for Encampment Residents"
 date: 2024-07-25T19:46:00-04:00
-image: "/images/room-10.jpg"
+image: "/images/room.jpg"
 ---
 
 Hello, neighbor!
