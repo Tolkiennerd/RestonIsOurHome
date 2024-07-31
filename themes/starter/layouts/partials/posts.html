@@ -1,0 +1,13 @@
+{{ range ( where .Site.RegularPages "Type" "posts" | first  (.Scratch.Get "limit") ) }}
+<article class="post-snippet">
+  <img src="{{ .Params.image }}" />
+  <div>
+    <h3>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+    <time>
+      {{ .Date.Format "January 2, 2006" }}
+    </time>
+  </div>
+</article>
+{{ end }}

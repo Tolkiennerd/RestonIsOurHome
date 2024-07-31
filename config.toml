@@ -1,5 +1,16 @@
 baseURL = 'https://restonisourhome.org/'
 languageCode = 'en-us'
 title = 'Reston Is Our Home'
-theme = 'ananke'
+theme = 'starter'
 
+SectionPagesMenu = "main"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 10
+
+[markup.goldmark.renderer]
+unsafe= true

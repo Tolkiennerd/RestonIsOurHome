@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<div style="margin: 3rem 0;">
+    {{ .Content }}
+</div>
+
+<h2>Latest Posts</h2>
+{{ .Scratch.Set "limit" 5 }}
+{{ partial "posts.html" . }}
+
+{{ partial "footer.html" . }}

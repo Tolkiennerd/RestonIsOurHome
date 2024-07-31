@@ -1,0 +1,143 @@
+/* LAYOUT */
+
+:root {
+  --background-color: #333;
+  --text-color: white;
+  --hover-text-color: #ccc;
+  --link-text-color: aqua;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: white;
+    --text-color: #333;
+    --hover-text-color: #555;
+    --link-text-color: blue;
+  }  
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-size: 125%;
+  line-height: 1.5;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+  color: var(--link-text-color);
+}
+
+.content {
+  margin: 0 20vw 2rem 20vw;
+}
+
+.site-header {
+  background-size: cover !important;
+  height: 50vh;
+  width: 100vw;
+  margin-top: -.5rem;
+  margin-left: -.5rem;
+  background-position-y: 30%;
+}
+
+/* NAVIGATION */
+
+.site-nav {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background-color: var(--background-color);
+  width: 100vw;
+  margin-top: -.5rem;
+  margin-left: -.5rem;
+}
+
+.site-nav a {
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+  color: white;
+}
+
+.site-nav a:hover {
+  color: #ccc;
+}
+
+.site-nav .logo {
+  font-weight: bold;
+}
+
+.site-header .banner-text {
+  font-size: 12vh;
+  margin: 1rem 3rem;
+  font-weight: bold;
+  max-width: 90vw;
+  color: white;
+}
+
+.site-header .description-text {
+  font-size: 125%;
+  margin: 0rem 3rem;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .5) 10%, rgba(0,0,0,.5) 90%, rgba(0,0,0,0) 100%);
+  color: white;
+  max-width: 75vw;
+}
+
+.main-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 48rem) {
+  .site-nav,
+  .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+    padding-left: 0;
+  }
+
+  .content {
+    margin: 0 5vw 2rem 5vw;
+  }
+}
+
+/* LISTS */
+
+.post-snippet {
+  margin-bottom: 1rem;
+  outline: solid 2px;
+  display: flex;
+  max-width: 47vw;
+  border-radius: 5px;
+}
+
+.post-snippet h3 {
+  margin-bottom: 0.25rem;
+  margin-left: 1rem;
+}
+
+.post-snippet time {
+  margin-left: 1rem;
+  font-style: italic;
+  color: var(--hover-text-color);
+}
+
+.post-snippet img {
+  float: left;
+}
+
+.post-snippet a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.post-snippet a:hover {
+  text-decoration: none;
+  color: var(--hover-text-color);
+}
