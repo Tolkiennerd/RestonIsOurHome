@@ -1,6 +1,6 @@
 {{ range ( where .Site.RegularPages "Type" "posts" | first  (.Scratch.Get "limit") ) }}
 <article class="post-snippet">
-  <img src="{{ .Params.image }}" />
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a>
   <div>
     <h3>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
