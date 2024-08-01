@@ -178,6 +178,11 @@ footer a img {
   .site-nav,
   .main-menu {
     flex-direction: column;
+    margin: 0 3vw;
+  }
+
+  .logo {
+    margin-left: 3vw !important;
   }
 
   .site-nav a {
@@ -185,22 +190,34 @@ footer a img {
     padding-left: 0;
   }
 
+  .site-nav ul li {
+    display: list-item;
+    font-size: 75%;
+    list-style-type: disclosure-closed;
+    margin-left: 1rem;;
+  }
+
+  .info {
+    display: block;
+  }
+
+  .info .emoji-image {
+    display: none;
+  }
+
   .content {
     margin: 0 5vw 2rem 5vw;
   }
 
-  .site-header .banner-text {
-    font-size: 12vw;
-    margin: 0rem 1rem;
-    font-weight: bold;
+  .site-header {
+    display: block;
+    padding-left: 3vw;
   }
 
-  .site-header .description-text {
-    font-size: 100%;
-    margin: 0rem 1rem;
-    max-width: 90vw;
+  .site-header img {
+    max-width: 95%;
   }
-  
+
   .post-snippet {
     max-width: 90vw !important;
   }
