@@ -1,18 +1,20 @@
 /* LAYOUT */
 
 :root {
-  --background-color: #333;
+  --background-color: #150101;
   --text-color: white;
   --hover-text-color: #ccc;
   --link-text-color: aqua;
+  --emphasis-color: #b0f7ae;
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: white;
-    --text-color: #333;
+    --background-color: #e5ffe5;
+    --text-color: #111;
     --hover-text-color: #555;
     --link-text-color: blue;
+    --emphasis-color: #544b80;
   }  
 }
 
@@ -32,14 +34,44 @@ a {
   margin: 0 20vw 2rem 20vw;
 }
 
+.info {
+  display: flex;
+}
+
+.info .emoji-image {
+  flex: 1;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 10vmin;
+  text-wrap: nowrap;
+}
+
+.info .description {
+  margin: 2rem 0;
+  flex: 1;
+}
+
 .site-header {
-  background-size: cover !important;
-  height: 50vh;
-  width: 100vw;
-  margin-top: -.5rem;
-  margin-left: -.5rem;
-  background-position-y: 30%;
-  background-position-x: 30%;
+  font-size: 12vmin;
+  padding-left: 3rem; 
+  display: flex;
+}
+
+.site-header img {
+  flex: 1; 
+  object-fit: scale-down; 
+  max-width: 50vw; 
+  margin-right: -.5rem;
+}
+
+.site-header div {
+  flex: 1; 
+  margin-top: auto; 
+  margin-bottom: auto;
+}
+
+.emphasis {
+  color: var(--emphasis-color);
 }
 
 /* NAVIGATION */
@@ -99,7 +131,6 @@ a {
 .post-snippet {
   margin-bottom: 1rem;
   outline: solid 2px;
-  display: flex;
   max-width: 47vw;
   border-radius: 5px;
 }
@@ -116,14 +147,13 @@ a {
 }
 
 .post-snippet img {
-  width: 100%;
-  height: 100%;
   object-fit: cover;
 }
 
 .post-snippet a {
   text-decoration: none;
   color: var(--text-color);
+  display: flex;
 }
 
 .post-snippet a:hover {

@@ -1,13 +1,15 @@
 {{ range ( where .Site.RegularPages "Type" "posts" | first  (.Scratch.Get "limit") ) }}
 <article class="post-snippet">
-    <a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a>
-  <div>
-    <h3>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h3>
-    <time>
-      {{ .Date.Format "January 2, 2006" }}
-    </time>
-  </div>
+  <a href="{{ .RelPermalink }}">
+    <img src="{{ .Params.image }}" style="flex: 1;" />
+    <div style="flex: 5;">
+      <h3>
+        {{ .Title }}
+      </h3>
+      <time>
+        {{ .Date.Format "January 2, 2006" }}
+      </time>
+    </div>
+  </a>
 </article>
 {{ end }}
