@@ -47,6 +47,14 @@ a {
   cursor: default;
 }
 
+.info .emoji-image.desktop {
+  display: block;
+}
+
+.info .emoji-image.mobile {
+  display: none;
+}
+
 .info .description {
   margin: 2rem 0;
   flex: 1;
@@ -202,10 +210,15 @@ footer a img {
     display: block;
   }
 
-  .info .emoji-image {
-    display: none;
+  .info .emoji-image.desktop {
+    display: none !important;
   }
-
+  
+  .info .emoji-image.mobile {
+    display: block !important;
+    text-align: center;
+  }
+  
   .content {
     margin: 0 5vw 2rem 5vw;
   }
