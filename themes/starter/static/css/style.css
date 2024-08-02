@@ -3,7 +3,8 @@
 :root {
   --background-color: #150101;
   --text-color: white;
-  --hover-text-color: #ccc;
+  --subheading-text-color: #ccc;
+  --hover-text-color: #b0f7ae;
   --link-text-color: aqua;
   --emphasis-color: #b0f7ae;
 }
@@ -12,7 +13,8 @@
   :root {
     --background-color: #e5ffe5;
     --text-color: #111;
-    --hover-text-color: #555;
+    --subheading-text-color: #555;
+    --hover-text-color: #544b80;
     --link-text-color: blue;
     --emphasis-color: #544b80;
   }  
@@ -144,6 +146,10 @@ a {
   border-radius: 5px;
 }
 
+.post-snippet:hover {
+  color: var(--hover-text-color);
+}
+
 .post-snippet h3 {
   margin-bottom: 0.25rem;
   margin-left: 1rem;
@@ -152,7 +158,7 @@ a {
 .post-snippet time {
   margin-left: 1rem;
   font-style: italic;
-  color: var(--hover-text-color);
+  color: var(--subheading-text-color);
 }
 
 .post-snippet img {
