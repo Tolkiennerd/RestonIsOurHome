@@ -1,16 +1,21 @@
 {{ partial "header.html" . }}
+{{ partial "banner.html" . }}
 
-<div class="info">
-    <div class="emoji-image">
-        ⛺ 🔜 🏡
-    </div>
-    <div class="description">
-        {{ .Content }}
-    </div>
-</div>
+<main class="content">
 
-<h2>Latest Posts</h2>
-{{ .Scratch.Set "limit" 5 }}
-{{ partial "posts.html" . }}
+    <div class="info">
+        <div class="emoji-image">
+            ⛺ 🔜 🏡
+        </div>
+        <div class="description">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <h2>Latest Posts</h2>
+    {{ .Scratch.Set "limit" 5 }}
+    {{ partial "posts.html" . }}
+
+</main>
 
 {{ partial "footer.html" . }}

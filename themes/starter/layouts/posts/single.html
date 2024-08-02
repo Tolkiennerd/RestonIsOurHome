@@ -1,14 +1,10 @@
 {{ partial "header.html" . }}
-{{ partial "banner.html" . }}
 
 <main class="content">
 
     <h1>{{ .Title }}</h1>
 
     {{ .Content }}
-
-    {{ .Scratch.Set "limit" 100 }}
-    {{ partial "posts.html" . }}
 
 </main>
 

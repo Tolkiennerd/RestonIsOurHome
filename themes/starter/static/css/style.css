@@ -44,6 +44,7 @@ a {
   margin-bottom: auto;
   font-size: 10vmin;
   text-wrap: nowrap;
+  cursor: default;
 }
 
 .info .description {
