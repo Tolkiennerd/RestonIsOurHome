@@ -1,7 +1,7 @@
 baseURL = 'https://restonisourhome.org/'
 languageCode = 'en-us'
 title = 'Reston Is Our Home'
-theme = 'hero-banner' 
+theme = 'hero-banner'
 
 SectionPagesMenu = "main"
 
