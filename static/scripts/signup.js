@@ -1,12 +1,10 @@
 const signUp = async () => {
     // CHECK IF EMAIL IS POPULATED.
-    const textbox = document.getElementById('signup-textbox');
     const validator = document.getElementById('signup-validator');
-    const email = textbox.value;
+    const email = document.getElementById('signup-textbox').value;
     if (!email) {
         validator.classList.replace('valid', 'invalid');
         validator.innerText = 'Enter an email';
-        textbox.classList.replace('valid', 'invalid');
         return;
     }
 
@@ -15,14 +13,12 @@ const signUp = async () => {
     if (!re.test(email)) {
         validator.classList.replace('valid', 'invalid');
         validator.innerText = 'Enter a valid email';
-        textbox.classList.replace('valid', 'invalid');
         return;
     }
 
     // EMAIL IS VALID.
     validator.classList.replace('invalid', 'valid');
     validator.innerText = '';
-    textbox.classList.replace('invalid', 'valid');
 
     // SEND EMAIL.
     const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {

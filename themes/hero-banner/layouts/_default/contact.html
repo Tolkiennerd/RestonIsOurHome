@@ -1,25 +1,19 @@
 {{ partial "header.html" . }}
 {{ partial "title.html" . }}
 
+<script src="/scripts/contact.js"></script>
+
 <main class="content">
     <div>{{ .Content }}</div>
 
     <div class="contact">
-        <div>
-            <!-- <label for="contact-name-textbox">Name</label> -->
-            <input id="contact-name-textbox" type="text" placeholder="Name" />
-        </div>
+            <input id="contact-name-textbox" class="valid" type="text" placeholder="Name" />
     
-        <div>
-            <!-- <label for="contact-email-textbox">Email</label> -->
-            <input id="contact-email-textbox" type="text" placeholder="Email" />
-        </div>
+            <input id="contact-email-textbox" class="valid" type="text" placeholder="Email" />
     
-        <div>
-            <textarea id="contact-message-textarea" placeholder="Message"></textarea>
-        </div>
+            <textarea id="contact-message-textarea" class="valid" placeholder="Message"></textarea>
 
-        <button>Send</button>
+        <button id="contact-button" onclick="sendContactMessage();">SEND</button>
     </div>
 </main>
 

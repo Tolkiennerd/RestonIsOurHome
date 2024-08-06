@@ -24,14 +24,6 @@
     margin-top: 3rem;
 }
   
-#signup-textbox .valid {
-    border-radius: 5px 0 0 5px;
-}
-
-#signup-textbox .invalid {
-    border-radius: 0 0 0 5px;
-}
-
 #signup-textbox:focus {
     outline: none;
 }
@@ -39,7 +31,6 @@
 .signup button {
     height: 4.1rem;
     width: 10rem;
-    border-radius: 0 5px 5px 0;
     font-size: 100%;
     text-align: center;
     border: 1px solid black;
@@ -67,7 +58,7 @@
 #signup-validator.invalid {
     display: unset;
     position: absolute;
-    background-color: #fb5757;
+    background-color: var(--error-color);
     margin-top: 1.12rem;
     width: 15rem;
     border-radius: 5px 5px 0 0;
