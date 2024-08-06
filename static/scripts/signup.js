@@ -20,6 +20,14 @@ const signUp = async () => {
     validator.classList.replace('invalid', 'valid');
     validator.innerText = '';
 
+    // FORMAT EMAIL.
+    const formattedEmail = escapeHtml(email);
+
+    // INDICATE EMAIL IS SENT.
+    const buttonElement = document.getElementById("signup-button");
+    buttonElement.innerText = 'Thanks!';
+    buttonElement.classList.add('check');
+
     // SEND EMAIL.
     const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
         method: 'POST',
@@ -28,15 +36,10 @@ const signUp = async () => {
             service_id: 'service_u9q60wt',
             template_id: 'template_pqf0y0g',
             user_id: 'HSVMi0S9TyJYriBKw',
-            template_params: { 'subscriber': `${email}` }
+            template_params: { 'subscriber': `${formattedEmail}` }
         })
     });
     if (!response.ok) {
         console.log(response);
     }
-
-    // INDICATE EMAIL IS SENT.
-    const buttonElement = document.getElementById("signup-button");
-    buttonElement.innerText = 'Thanks!';
-    buttonElement.classList.add('check');
 };

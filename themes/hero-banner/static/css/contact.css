@@ -90,3 +90,11 @@
     color: black !important;
     cursor: default;
 }
+
+@media screen and (max-width: 48rem) {
+    .contact input,
+    .contact textarea,
+    .contact button {
+        width: 95vw;
+    }
+}

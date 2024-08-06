@@ -22,9 +22,9 @@
       <div class="nav">
         <div class="nav-wrapper">
           <nav>
-            <a href="#">About</a><br>
-            <a href="#">Contact</a><br>
-            <a href="#">News</a>
+            {{ range.Site.Menus.main }}
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
           </nav>
         </div>
       </div>
