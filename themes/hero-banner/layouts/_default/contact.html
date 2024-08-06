@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+{{ partial "title.html" . }}
+
+<main class="content">
+    <div>{{ .Content }}</div>
+
+    <div class="contact">
+        <div>
+            <!-- <label for="contact-name-textbox">Name</label> -->
+            <input id="contact-name-textbox" type="text" placeholder="Name" />
+        </div>
+    
+        <div>
+            <!-- <label for="contact-email-textbox">Email</label> -->
+            <input id="contact-email-textbox" type="text" placeholder="Email" />
+        </div>
+    
+        <div>
+            <textarea id="contact-message-textarea" placeholder="Message"></textarea>
+        </div>
+
+        <button>Send</button>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}

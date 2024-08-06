@@ -11,6 +11,11 @@ SectionPagesMenu = "main"
         name = "About"
         url = "/about"
         weight = 10
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+        weight = 20
 
 [markup.goldmark.renderer]
 unsafe = true

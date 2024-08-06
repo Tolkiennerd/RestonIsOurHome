@@ -1,12 +1,6 @@
 {{ partial "header.html" . }}
-{{ partial "banner.html" . }}
+{{ partial "title.html" . }}
 
-<main class="content">
-
-    <h1>{{ .Title }}</h1>
-
-    {{ .Content }}
-
-</main>
+<main class="content">{{ .Content }}</main>
 
 {{ partial "footer.html" . }}

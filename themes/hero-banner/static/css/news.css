@@ -1,0 +1,73 @@
+.posts {
+    padding-bottom: 1rem;
+  }
+  
+article {
+    margin-bottom: 1rem;
+}
+  
+article:hover {
+    color: var(--hover-text-color);
+}
+  
+article h3 {
+    margin-bottom: 0.25rem;
+    margin-left: 1rem;
+}
+  
+article time {
+    margin-left: 1rem;
+    font-style: italic;
+    font-size: 80%;
+    color: var(--subheading-text-color);
+}
+  
+article img {
+    object-fit: cover;
+    transition: all .25s ease-in-out;
+}
+
+article a:hover > img {
+    transform: scale(1.1);
+}
+  
+article a {
+    text-decoration: none;
+    color: var(--text-color);
+    display: flex;
+}
+  
+article a:hover {
+    text-decoration: none;
+    color: var(--hover-text-color);
+}
+  
+article a img {
+    flex: 1;
+}
+  
+article a div {
+    flex: 5;
+}
+
+article a:hover > div {
+    background-color: rgba(223, 235, 236, 0.2);
+}
+
+@media screen and (max-width: 48rem) {
+    article {
+        max-width: 90vw !important;height: 8rem;
+    }
+
+    article h3 {
+        font-size: 85%;
+        height: 4.5rem;
+        overflow: hidden;
+    }
+
+    article time {
+        font-size: 65%;
+        float: right;
+        padding-right: 1rem;
+    }
+}

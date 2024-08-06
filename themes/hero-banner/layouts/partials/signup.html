@@ -1,6 +1,9 @@
 <script src="scripts/signup.js"></script>
 <div class="signup">
-    <div class="call-to-action">STAY IN TOUCH!</div>
-    <input id="email-textbox" type="text" placeholder="Your email..." />
-    <button type="button" onclick="signUp()">Sign Up!</button>
+    <div class="message">STAY IN TOUCH!</div>
+    <div id="signup-validator" class="valid"></div>
+    <input id="signup-textbox" class="valid" type="email" placeholder="Your email..." />
+    <button type="button" id="signup-button" onclick="signUp()">
+        <div>Sign Up</div>
+    </button>
 </div>

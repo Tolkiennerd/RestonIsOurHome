@@ -1,4 +1,4 @@
-{{ range ( where .Site.RegularPages "Type" "posts" | first  (.Scratch.Get "limit") ) }}
+{{ range ( where .Site.RegularPages "Type" "news" | first  (.Scratch.Get "limit") ) }}
 <article class="post-snippet">
   <a href="{{ .RelPermalink }}">
     <img src="{{ .Params.image }}" style="flex: 1;" />

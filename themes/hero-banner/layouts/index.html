@@ -1,13 +1,15 @@
 {{ partial "header.html" . }}
+<br />
 {{ partial "banner.html" . }}
 
 <main class="content">
 
-    <div style="margin: 3rem 0;">
-        {{ .Content }}
+    <div class="overview">
+        <h2>How It Started</h2>
+        <hr />
+        <div>{{ .Content }}</div>
     </div>
 
-    <h2>What's been going on...</h2>
     {{ .Scratch.Set "limit" 5 }}
     {{ partial "posts.html" . }}
 
