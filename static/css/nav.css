@@ -7,16 +7,16 @@
     margin-top: -.6rem;
     margin-left: -.5rem;
     margin-right: 3rem;
-    margin-bottom: -1rem;
+    margin-bottom: -1.5rem;
 }
-  
+
 .site-nav a {
     display: block;
     padding: 1rem;
     text-decoration: none;
     color: var(--text-color);
 }
-  
+
 .site-nav .nav-wrapper nav a {
   color: white;
 }
@@ -24,12 +24,12 @@
 .site-nav a:hover {
     color: var(--hover-text-color);
 }
-  
+
 .site-nav .logo {
     font-weight: bold;
     margin-left: 3rem;
 }
-  
+
 .main-menu {
     display: flex;
     list-style: none;
@@ -40,74 +40,72 @@
 .hamburger-menu {
     display: none;
 }
-  
+
 @media screen and (max-width: 48rem) {
     header {
         height: 40vh !important;
     }
 
     .site-nav .logo {
-      margin-left: 1rem;
-      font-size: 1.5rem;
+        margin-left: 1rem;
+        font-size: 1.5rem;
     }
   
     .site-nav a {
-      padding: 0.5rem;
-      padding-left: 0;
+        padding: 0.5rem;
+        padding-left: 0;
     }
   
     .site-header .banner-text {
-      margin: 0 1rem !important;
+        margin: 0 1rem !important;
     }
   
     .site-header .banner-text div {
-      font-size: 12vw;
-      margin: 0 !important;
-      font-weight: bold;
+        font-size: 12vw;
+        margin: 0 !important;
+        font-weight: bold;
     }
   
     .site-header .description-text {
-      font-size: 1rem !important;
-      margin: 0 1rem !important;
-      max-width: 90vw;
+        font-size: 1rem !important;
+        margin: 0 1rem !important;
+        max-width: 90vw;
     }
 
     .main-menu {
         display: none;
     }
 
-    /**
-      Hamburger
-    **/
-
     #toggle {
-      display: none;
+        display: none;
     }
 
     .hamburger-menu {
         display: block !important;
     }
+
     .hamburger {
-      position: absolute;
-      top: 5em;
-      right: 5%;
-      margin-left: -2em;
-      margin-top: -70px;
-      width: 2em;
-      height: 45px;
-      z-index: 5;
+        position: absolute;
+        top: 5em;
+        right: 5%;
+        margin-left: -2em;
+        margin-top: -70px;
+        width: 2em;
+        height: 45px;
+        z-index: 5;
     }
     
     .hamburger div {
-      position: relative;
-      width: 2em;
-      height: 5px;
-      border-radius: 3px;
-      background-color: var(--text-color);
-      margin-top: 8px;
-      margin-right: 1rem;
-      transition: all 0.3s ease-in-out;
+        position: relative;
+        width: 2em;
+        height: 5px;
+        border-radius: 3px;
+        background-color: var(--text-color);
+        margin-top: 8px;
+        margin-right: 1rem;
+        transition: all 0.3s ease-in-out;
     }
+
     .nav {
         position: fixed;
         width: 100%;
@@ -118,17 +116,20 @@
         transition: all 0.3s ease-in-out;
         transform: scale(0);
         color: white;
-      }
-      .nav-wrapper {
+    }
+
+    .nav-wrapper {
         position: relative;
         overflow: hidden;
         overflow-y: auto;
         height: 100%;
-      }
-      nav {
+    }
+
+    nav {
         margin-left: 6rem;
-      }
-      nav a {
+    }
+
+    nav a {
         position: relative;
         text-decoration: none;
         color: white;
@@ -137,8 +138,9 @@
         margin-top: 1.25em;
         transition: color 0.2s ease-in-out;
         letter-spacing: 1px;
-      }
-      nav a:before {
+    }
+
+    nav a:before {
         content: '';
         height: 0;
         position: absolute;
@@ -146,32 +148,33 @@
         background-color: white;
         left: -0.5em;
         transition: all 0.2s ease-in-out;
-      }
-      nav a:hover {
+    }
+
+    nav a:hover {
         color: white;
-      }
-      nav a:hover:before {
+    }
+
+    nav a:hover:before {
         height: 100%;
-      }
-      
-      /**
-      Animations
-      **/
-      #toggle:checked + .hamburger .top-bun {
+    }
+    
+    #toggle:checked + .hamburger .top-bun {
         transform: rotate(-45deg);
         margin-top: 25px;
-      }
-      #toggle:checked + .hamburger .bottom-bun {
+    }
+
+    #toggle:checked + .hamburger .bottom-bun {
         opacity: 0;
         transform: rotate(45deg);
-      }
-      #toggle:checked + .hamburger .meat {
+    }
+
+    #toggle:checked + .hamburger .meat {
         transform: rotate(45deg);
         margin-top: -7px;
-      }
-      
-      #toggle:checked + .hamburger + .nav {
+    }
+    
+    #toggle:checked + .hamburger + .nav {
         top: 0;
         transform: scale(1);
-      }
+    }
 }  
