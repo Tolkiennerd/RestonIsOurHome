@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        { "source": "/faq", "destination": "/about", "permanent": true },
+        { "source": "/newsletter", "destination": "/news", "permanent": true },
+        { "source": "/post/it-s-hot-outside", "destination": "/news/its-hot-outside", "permanent": true },
+        { "source": "/take-action", "destination": "/contact", "permanent": true }
+    ]
+}
