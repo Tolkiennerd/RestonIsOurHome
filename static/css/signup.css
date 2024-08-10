@@ -72,7 +72,7 @@
     }
 
     #signup-textbox {
-        margin-top: 1rem !important;
+        margin-top: 0 !important;
         width: 65vw;
         display: inline;
     }
@@ -80,7 +80,11 @@
     .signup button {
         width: 25vw;
         display: inline;
-        margin-top: 1rem !important;
+        margin-top: 0 !important;
+    }
+
+    .signup-form {
+        margin-top: 2rem !important;
     }
 
     #signup-validator.invalid {
