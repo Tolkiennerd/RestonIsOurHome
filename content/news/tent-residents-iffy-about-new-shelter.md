@@ -22,9 +22,9 @@ Also, feel free to read this whole newsletter [here](https://www.restonisourhome
 
 ## First Look at the Overnight Shelter
 ![cot](/images/cot-me.webp)  
-On July 29 at 5pm, the Temporary Overnight Shelter opened its doors to residents of the encampment (AKA the Hill). I and Cornerstones employees went tent to tent, encouraging everyone to come down for dinner and maybe spend the night. Cornerstones had the foresight to offer cheesecake, which definitely attracted a wider crowd!  
+On July 29 at 5pm, the Temporary Overnight Shelter opened its doors to residents of the encampment (AKA the Hill). Cornerstones employees and I went tent to tent, encouraging everyone to come down for dinner and maybe spend the night. Cornerstones had the foresight to offer cheesecake, which definitely attracted a wider crowd!  
 
-All told, around ten people came for dinner, and less than half of that stayed the night. It was a humble start, but Cornerstones is hopeful that more people will come. Pictured above is one of the shelter's new cots, which have a covering to provide more privacy than a mat on the floor.
+All told, around ten people came for dinner, and less than half of those stayed the night. It was a humble start, but Cornerstones is hopeful that more people will come. Pictured above is one of the shelter's new cots, which have a covering to provide more privacy than a mat on the floor.
 
 ## Asking Friends at the Encampment for Their Thoughts about the Overnight Shelter
 When asked to come to the new shelter, many tent residents said they preferred their tent (while others enjoyed the shelter). Of course, if the encampment is cleared, then many more people will probably use the overnight shelter. However, many probably won't, instead opting to camp in another wooded area.  
@@ -55,7 +55,7 @@ From those who will use the shelter:
 
 ## Fully Covered Beds for the Overnight Shelter?
 ![bed](/images/covered-bed.webp)  
-Reston Strong (a local nonprofit that advocates for the Hill) also has concerns about the new shelter. They don't think these cots at the shelter offer any privacy (or comfort) at all. Instead, they're proposing the shelter offers covered beds, pictured above.  
+Reston Strong (a local nonprofit that advocates for the Hill) also has concerns about the new shelter. They don't think these cots at the shelter offer any privacy or comfort at all. Instead, they're proposing the shelter offers covered beds, pictured above.  
 
 Reston Strong is talking with Cornerstones about potentially adding these beds. I believe this would bring more people inside, since they're more comfortable and more private. However, I know some folks simply don't want to sleep in a room full of other people.  
 
@@ -69,11 +69,11 @@ For any nerds out there, I made this site with [Hugo](https://gohugo.io/), and y
 ## I Should Have Been Checking These Dumpster Receipts...
 I did another trash run yesterday, and we sorted through three weeks' worth of trash. This includes normal household trash as well as tents, mattresses, and folding furniture which were destroyed due to the elements.  
 
-When I got the receipt from the dump, I noticed that we threw out 1.2 tons of trash! I did some quick math, and realized that since I've started doing this, we've probably thrown out roughly 20 tons of trash from the Hill. I'll definitely be holding on to those receipts from now on.  
+When I got the receipt from the dump, I noticed that we threw out 1.2 tons of trash! I did some quick math and realized that since I've started doing this, we've probably thrown out roughly 20 tons of trash from the Hill. I'll definitely be holding on to those receipts from now on.  
 
 ## Capital Church Went ALL OUT
 ![capital church](/images/capitalchurch.webp)  
-Odie Taribo is incredibly passionate about helping out at the Hill. He brought his pastor and lots of members of Capital Church to the Hill a couple weeks ago to provide sandwiches, drinks, clothes, and hygiene items for everyone! It was a real blessing.  
+Odie Taribo is incredibly passionate about helping out at the Hill. He brought his pastor, Rohan Anderson, and lots of members of Capital Church to the Hill a couple weeks ago. They provided sandwiches, drinks, clothes, and hygiene items for everyone! It was a real blessing.  
 
 ---
 
