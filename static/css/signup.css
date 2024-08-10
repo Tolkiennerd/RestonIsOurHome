@@ -82,6 +82,7 @@
     .signup button {
         width: 101%;
         height: 2rem;
+        color: var(--text-color) !important;
     }
 
     .signup-form {
