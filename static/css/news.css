@@ -61,7 +61,9 @@ article a:hover > div {
 
 @media screen and (max-width: 48rem) {
     article {
-        max-width: 90vw !important;height: 8rem;
+        max-width: 90vw !important;
+        height: 8rem;
+        margin-bottom: 3rem !important;
     }
 
     article h3 {

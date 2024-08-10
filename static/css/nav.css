@@ -43,7 +43,7 @@
 
 @media screen and (max-width: 48rem) {
     header {
-        height: 40vh !important;
+        height: 50vh !important;
     }
 
     .site-nav .logo {
@@ -178,3 +178,44 @@
         transform: scale(1);
     }
 }  
+
+
+@media screen and (min-width: 48.1rem) and (max-width: 900px) {
+    header {
+        height: 50vh !important;
+    }
+
+    .site-nav .logo {
+        margin-left: 1rem;
+        font-size: 1.5rem;
+    }
+  
+    .site-nav a {
+        padding: 0.5rem;
+        padding-left: 0;
+    }
+  
+    .site-header .banner-text {
+        margin: 0 1rem !important;
+    }
+  
+    .site-header .banner-text div {
+        font-size: 12vw;
+        margin: 0 !important;
+        font-weight: bold;
+    }
+  
+    .site-header .description-text {
+        font-size: 1rem !important;
+        margin: 0 1rem !important;
+        max-width: 90vw;
+    }
+
+    .main-menu {
+        display: flex;
+    }
+
+    #toggle {
+        display: none;
+    }
+}
