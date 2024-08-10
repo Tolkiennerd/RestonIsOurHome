@@ -72,19 +72,25 @@
     }
 
     #signup-textbox {
-        margin-top: 0 !important;
-        width: 65vw;
-        display: inline;
+        width: calc(100% - .85rem);
+        height: 2rem;
+        text-align: center;
+        padding-right: 0;
+        margin-left: -.25rem;
     }
 
     .signup button {
-        width: 25vw;
-        display: inline;
-        margin-top: 0 !important;
+        width: 101%;
+        height: 2rem;
     }
 
     .signup-form {
-        margin-top: 2rem !important;
+        margin-top: 2.1rem !important;
+        display: flex;
+        flex-direction: column;
+        margin-right: auto;
+        margin-left: auto;
+        width: 80vw;
     }
 
     #signup-validator.invalid {
