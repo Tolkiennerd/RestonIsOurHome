@@ -77,6 +77,7 @@
         text-align: center;
         padding-right: 0;
         margin-left: -.25rem;
+        border-radius: 0 !important;
     }
 
     .signup button {
