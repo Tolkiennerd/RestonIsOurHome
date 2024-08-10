@@ -44,6 +44,7 @@ article a:hover {
   
 article a img {
     flex: 1;
+    height: 10rem;
 }
   
 article a div {
@@ -52,6 +53,10 @@ article a div {
 
 article a:hover > div {
     background-color: rgba(223, 235, 236, 0.2);
+}
+
+.news img {
+    height: 10rem;
 }
 
 @media screen and (max-width: 48rem) {
