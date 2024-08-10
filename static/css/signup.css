@@ -71,11 +71,16 @@
 
     #signup-textbox {
         margin-top: 1rem;
-        width: 70vw;
+        width: 65vw;
         display: inline;
     }
 
     .signup button {
         width: 25vw;
+        display: inline;
+    }
+
+    #signup-validator.invalid {
+        display: none !important;
     }
 }
