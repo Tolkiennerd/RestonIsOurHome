@@ -1,7 +1,7 @@
 const signUp = async () => {
     // CHECK IF EMAIL IS POPULATED.
     const validator = document.getElementById('signup-validator');
-    const email = document.getElementById('signup-textbox').value;
+    const email = document.getElementById('signup-textbox').value.trim();
     if (!email) {
         validator.classList.replace('valid', 'invalid');
         validator.innerText = 'Enter an email';

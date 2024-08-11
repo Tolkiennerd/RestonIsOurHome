@@ -1,7 +1,7 @@
 const sendContactMessage = async () => {
     // CHECK IF NAME IS POPULATED.
     const nameTextbox = document.getElementById('contact-name-textbox');
-    const name = nameTextbox.value;
+    const name = nameTextbox.value.trim();
     if (!name) {
         nameTextbox.classList.replace('valid', 'invalid');
         return;
@@ -12,7 +12,7 @@ const sendContactMessage = async () => {
 
     // CHECK IF EMAIL IS POPULATED.
     const emailTextbox = document.getElementById('contact-email-textbox');
-    const email = emailTextbox.value;
+    const email = emailTextbox.value.trim();
     if (!email) {
         emailTextbox.classList.replace('valid', 'invalid');
         return;
