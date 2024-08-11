@@ -4,7 +4,7 @@
     width: 100vw;
     margin-left: -.5rem;
     text-align: center;
-  }
+}
   
 .signup .message {
     font-size: 250%;
@@ -69,6 +69,7 @@
 @media screen and (max-width: 48rem) {
     .signup .message {
         font-size: 200%;
+        padding-top: 3rem;
     }
 
     #signup-textbox {
