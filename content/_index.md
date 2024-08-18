@@ -1,6 +1,7 @@
 ---
 title: ""
 date: 2024-07-30T11:59:53-04:00
+image: '/images/tent.webp'
 
 description: Reston's unhoused community is being offered a new shelter for nighttime use. Stay updated for new developments!
 ---

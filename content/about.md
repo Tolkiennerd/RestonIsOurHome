@@ -1,5 +1,6 @@
 ---
 title: "About"
+image: '/images/tent.webp'
 ---
 
 Reston, Virginia is a very affluent city, but there are many residents without homes. These individuals have lived for years in an encampment near the INOVA urgent care center, on the corner of Baron Cameron Avenue and Fountain Drive. Several months ago, it was revealed that these tents would be cleared, so I started this site in order to advocate for their well-being.
