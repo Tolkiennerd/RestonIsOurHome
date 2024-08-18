@@ -2,6 +2,14 @@
 title: "Tent Residents Iffy About New Shelter"
 date: 2024-08-09T13:17:07-04:00
 image: "/images/capitalchurch.webp"
+description: |
+    👋 The new shelter is open, and Cornerstones urges tent residents to sleep there  
+    🤨 Many folks still prefer their tents instead of the shelter, and they explained why  
+    🛌 Reston Strong proposes covered beds to offer more privacy in the overnight shelter  
+    💻 I've revamped the website, and all these newsletters will be posted there  
+    🚚 We collected and disposed of 1.2 TONS of trash in one day  
+    ⛪ Capital Church showed up with an amazing spread of meals, clothes, and other items! 
+type: article
 ---
 
 Hello, neighbor!  

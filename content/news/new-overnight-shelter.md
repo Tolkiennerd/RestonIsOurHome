@@ -2,6 +2,13 @@
 title: "New Temporary Overnight Shelter for Encampment Residents"
 date: 2024-07-25T19:46:00-04:00
 image: "/images/room.webp"
+description: |
+    🕍 Cornerstones hosted a meeting with interfaith partners to discuss plans for the Temporary Overnight Shelter intended for those residing at the Hill -- it's not perfect, but I'm optimistic.  
+    💪 Reston Strong (a local nonprofit which has been with the Hill since day one) hopes to start a drop-in center for people experiencing homelessness.  
+    🏡 Three friends from the Hill have secured housing!  
+    🥪 We've received awesome sandwich donations from Sue (AKA "the sandwich lady") and Capital Church.  
+    ♻️ I did another trash run, and if you'd like to help in the future, let me know!  
+type: article
 ---
 
 Hello, neighbor!
