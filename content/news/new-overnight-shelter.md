@@ -8,7 +8,7 @@ description: |
     🏡 Three friends from the Hill have secured housing!  
     🥪 We've received awesome sandwich donations from Sue (AKA "the sandwich lady") and Capital Church.  
     ♻️ I did another trash run, and if you'd like to help in the future, let me know!  
-type: article
+og_type: article
 ---
 
 Hello, neighbor!

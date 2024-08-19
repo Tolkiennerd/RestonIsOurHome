@@ -9,7 +9,7 @@ description: |
     👗 My friend Rosa Simon received lots of donations of women's clothes, which helped out ladies on the Hill  
     👮‍♂️ Volunteers can't park in the INOVA parking lot anymore because of increased security...  
     🎒 My church (with help from Rosa) donated backpacks filled with useful items for the heat to our friends on the streets in Herndon
-type: article
+og_type: article
 ---
 
 Hello, neighbor!

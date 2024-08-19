@@ -9,7 +9,7 @@ description: |
     💻 I've revamped the website, and all these newsletters will be posted there  
     🚚 We collected and disposed of 1.2 TONS of trash in one day  
     ⛪ Capital Church showed up with an amazing spread of meals, clothes, and other items! 
-type: article
+og_type: article
 ---
 
 Hello, neighbor!  
