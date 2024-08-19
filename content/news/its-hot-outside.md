@@ -2,6 +2,14 @@
 title: "IT'S HOT OUTSIDE"
 date: 2024-07-11T15:29:06-04:00
 image: "/images/uhaul.webp"
+description: |
+    🥵 Everyone is feeling the heat -- they're always asking for cold water!  
+    ♻️ We cleaned up plenty of trash last week and hauled it to the dump  
+    🧑‍⚖️ The Supreme Court cruelly ruled that cities can fine and/or arrest homeless people for sleeping outside even if shelters are full  
+    👗 My friend Rosa Simon received lots of donations of women's clothes, which helped out ladies on the Hill  
+    👮‍♂️ Volunteers can't park in the INOVA parking lot anymore because of increased security...  
+    🎒 My church (with help from Rosa) donated backpacks filled with useful items for the heat to our friends on the streets in Herndon
+og_type: article
 ---
 
 Hello, neighbor!
