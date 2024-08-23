@@ -11,10 +11,15 @@ SectionPagesMenu = "main"
         url = "/about"
         weight = 10
     [[menu.main]]
+        identifier = "needs"
+        name = "Needs"
+        url = "/needs"
+        weight = 20
+    [[menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact"
-        weight = 20
+        weight = 30
 
 [markup.goldmark.renderer]
 unsafe = true
