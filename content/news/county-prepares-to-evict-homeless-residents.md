@@ -12,7 +12,7 @@ description: |
 og_type: article
 ---
 
-Hello, neighbor!
+Hello, neighbor!  
 
 This Tuesday (August 27), the [county will put up No Trespassing signs](https://www.ffxnow.com/2024/08/22/just-in-fairfax-county-to-clear-reston-homeless-camp-starting-next-week/?utm_source=FFXnow&utm_campaign=68e78209f3-EMAIL_CAMPAIGN_2024_08_22_08_01&utm_medium=email&utm_term=0_0e108e56de-68e78209f3-%5BLIST_EMAIL_ID%5D&mc_cid=68e78209f3) around the Hill encampment, giving residents there two weeks before they will be evicted. So, the last day anyone can stay there will be September 10.  
 
