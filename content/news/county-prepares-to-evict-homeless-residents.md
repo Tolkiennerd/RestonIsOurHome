@@ -1,6 +1,6 @@
 ---
 title: "County Prepares to Evict Homeless Residents"
-date: 2024-08-18T20:28:11-04:00
+date: 2024-08-23T19:28:11-04:00
 image: "/images/fairfax.webp"
 description: |
     🚫 On 7/10, the county will clear everyone out of the Hill encampment  
