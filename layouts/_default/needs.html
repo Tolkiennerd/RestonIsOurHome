@@ -3,7 +3,7 @@
 
 <main class="content">
     <p>{{ .Params.description }}</p>
-    <p>🗓️ Last updated on: {{ .Params.date.Format "January 2, 2006" }}</p>
+    <p>🗓️ Last updated on: {{ .Date.Format "January 2, 2006" }}</p>
     {{ .Content }}
 </main>
 
