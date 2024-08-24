@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+{{ partial "title.html" . }}
+
+<main class="content">
+    <p>{{ .Params.description }}</p>
+    <p>🗓️ Last updated on: {{ .Date.Format "January 2, 2006" }}</p>
+    {{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}
