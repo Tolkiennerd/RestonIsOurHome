@@ -57,5 +57,5 @@ One longtime resident of the Hill (who I call the "tarp architect") likes to dab
 
 I'll be keeping up with everyone as they make plans now that the Hill is officially closing. I appreciate all your concern and support!  
 
-Thanks,
+Thanks,  
 Matthew
