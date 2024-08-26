@@ -3,7 +3,7 @@ title: "County Prepares to Evict Homeless Residents"
 date: 2024-08-23T19:28:11-04:00
 image: "/images/fairfax.webp"
 description: |
-    🚫 On 7/10, the county will clear everyone out of the Hill encampment  
+    🚫 On September 10, the county will clear everyone out of the Hill encampment  
     📈 A few more folks have started using the overnight shelter (~10 people/night)  
     💻 If you want to see what items folks need, check out this new page  
     🐺 Good Wolf Gear has graciously donated many camping supplies to the Hill  
@@ -21,7 +21,7 @@ The county has made efforts to compassionately "wind down" the Hill, but it's st
 If you'd like to help out, check out this [list of needs](https://www.restonisourhome.org/needs).
 
 ## TL;DR
-🚫 On 7/10, the county will clear everyone out of the Hill encampment  
+🚫 On September 10, the county will clear everyone out of the Hill encampment  
 📈 A few more folks have started using the overnight shelter (~10 people/night)  
 💻 If you want to see what items folks need, check out this [new page](https://www.restonisourhome.org/needs)  
 🐺 [Good Wolf Gear](https://www.goodwolfgear.com/) has graciously donated many camping supplies to the Hill  
@@ -54,3 +54,8 @@ The DC police plan to aggressively clear homeless people from the area around th
 ## A Wizard Appears
 ![Wizard](/images/wizard.webp)  
 One longtime resident of the Hill (who I call the "tarp architect") likes to dabble in small art projects. He takes scrap that otherwise has no purpose (old bike tires, wire, tent poles, etc.) and turns them into chandeliers, table centerpieces, or other decorative displays. When I turned up a few days ago, he'd made a ten-foot tall wizard! I was very impressed, and with his permission, I'm showing it off here.  
+
+I'll be keeping up with everyone as they make plans now that the Hill is officially closing. I appreciate all your concern and support!  
+
+Thanks,  
+Matthew
