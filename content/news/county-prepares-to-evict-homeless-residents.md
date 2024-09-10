@@ -18,12 +18,12 @@ This Tuesday (August 27), the [county will put up No Trespassing signs](https://
 
 The county has made efforts to compassionately "wind down" the Hill, but it's still incredibly life-altering for someone with no resources to be forced to relocate. Many of them have a choice between sleeping in a shelter without privacy or hiding in the woods where cops might kick them out. I'll continue keeping up with my friends from the tents no matter where they end up.
 
-If you'd like to help out, check out this [list of needs](https://www.restonisourhome.org/needs).
+If you'd like to help out, check out this [list of needs](/needs).
 
 ## TL;DR
 🚫 On September 10, the county will clear everyone out of the Hill encampment  
 📈 A few more folks have started using the overnight shelter (~10 people/night)  
-💻 If you want to see what items folks need, check out this [new page](https://www.restonisourhome.org/needs)  
+💻 If you want to see what items folks need, check out this [new page](/needs)  
 🐺 [Good Wolf Gear](https://www.goodwolfgear.com/) has graciously donated many camping supplies to the Hill  
 📋 An advocacy group in DC has a [petition](https://actionnetwork.org/petitions/stop-the-implementation-of-hostile-anti-homeless-policies-at-dc-public-librarie?source=direct_link&) to stop anti-homeless street sweeping  
 🧙‍♂️ A longtime Hill resident created a snazzy-looking wizard  
@@ -42,7 +42,7 @@ For these reasons, I've often said that if I were homeless, I'd prefer to live i
 When it first opened, the temporary overnight shelter only served three guests for the night. Now, we're up to nearly ten people per night. This is a good number, and it makes me hopeful that more people will use the shelter rather than trying to stake it out somewhere else on their own. Still, there are roughly thirty people who could be using its services, so hopefully more will join.
 
 ## List of Needs at the Hill
-Sometimes people ask me what would be good to donate for the Hill. So, I've made a [new page](https://www.restonisourhome.org/needs) which lists all the current needs. I'm keeping this page up to date (it shows when it was last updated). If you have any of these items, feel free to [contact me](https://www.restonisourhome.org/contact) to coordinate a drop-off.
+Sometimes people ask me what would be good to donate for the Hill. So, I've made a [new page](/needs) which lists all the current needs. I'm keeping this page up to date (it shows when it was last updated). If you have any of these items, feel free to [contact me](/contact) to coordinate a drop-off.
 
 ## Good Wolf Gear Has the Best Donations!
 ![Good Wolf Gear logo](/images/goodwolf.webp)  
