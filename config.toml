@@ -5,6 +5,21 @@ title = 'Reston Is Our Home'
 SectionPagesMenu = "main"
 
 [menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 10
+    [[menu.main]]
+        identifier = "needs"
+        name = "Needs"
+        url = "/needs"
+        weight = 20
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+        weight = 30
 
 [markup.goldmark.renderer]
 unsafe = true
