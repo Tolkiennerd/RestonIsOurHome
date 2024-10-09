@@ -52,3 +52,7 @@ Reporting verifiable crimes helps police catch criminals. Reporting someone stan
 
 ---
 
+I'm reaching out to organizations to help those who are sleeping outside. Hopefully I'll hear back soon, since chilly weather is upon us.  
+
+Thanks,  
+Matthew
