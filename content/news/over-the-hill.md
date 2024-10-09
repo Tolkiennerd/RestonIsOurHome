@@ -26,7 +26,7 @@ Thankfully, a fair number of former Hill residents have now been housed! Several
 ## Roughing It
 Some Hill residents are still sleeping outdoors. Some have pitched up tents while others sleep on benches. As of now, nobody's bothering them or reporting them, which is good to hear. However, there is always that risk for anyone sleeping outside, especially now that the Supreme Court decided municipalities can indiscriminately ban unhoused people from sleeping on public property.  
 
-I spoke with some people today who are sleeping outside, and they're doing okay, aside from not having a home. Many of their things have gotten smelly and moldy during last week's rain, but they're otherwise secure. With the weather turning chilly, they're seeking warm things. I've updated the [Needs](/needs) page with the items they've directly asked for. 
+I spoke with some people who are sleeping outside, and they're doing okay, aside from not having a home. Many of their things have gotten smelly and moldy during last week's rain, but they're otherwise secure. With the weather turning chilly, they're seeking warm things. I've updated the [Needs](/needs) page with the items they've directly asked for. 
 
 ## My Neighborhood, Crime, and Homelessness
 I originally created this site to dispel misinformation about Reston's homeless community, and I have an opportunity to do so again! There has been some crime in my neighborhood recently (burglary of unlocked cars and patios), and there's a few concerns that the homeless population is responsible.    
